@@ -1,1 +1,4 @@
 Hola, este es un proyecto colaborativo en GitHub para toda la comunidad.
+
+Feature 2
+Here is the amazing feature 2
